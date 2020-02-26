@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\bin\Debug\netstandard2.0\CrudUsingXamarin.deps.json
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\bin\Debug\netstandard2.0\CrudUsingXamarin.dll
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\bin\Debug\netstandard2.0\ref\CrudUsingXamarin.dll
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\bin\Debug\netstandard2.0\CrudUsingXamarin.pdb
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.AssemblyInfo.cs
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.dll
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\ref\CrudUsingXamarin.dll
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\CrudUsingXamarin.pdb
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\andre\source\repos\CrudUsingXamarin\CrudUsingXamarin\CrudUsingXamarin\bin\Debug\netstandard2.0\CrudUsingXamarin.dll.config
